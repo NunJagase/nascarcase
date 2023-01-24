@@ -1,0 +1,24 @@
+{
+	id: 1,
+	eventName: "Larry's Wacky Turbo Race",
+	date: “2023/12/02”,
+	time: “12:30”,
+	location: “Summerville, Texas”,
+	stadium: “Summerville Crash Course”
+},
+{
+	id: 2,
+	eventName: "Karl Kustner's Death Race",
+	date: "2023/12/03",
+	time: "09:35",
+	location: "Summerville, Texas",
+	stadium: "Summerville Crash Course"
+},
+{
+	id: 3,
+	eventName: "Peter Pettigrew's Pottermore Pastry",
+	date:"2023/45/15",
+	time:"15:30",
+	location: "Halfway Huntington, Texas",
+	stadium: "Quiddich Megastadium"
+}

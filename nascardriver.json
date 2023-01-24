@@ -1,0 +1,36 @@
+{
+	driverid: 1,
+	firstName: ”Karl”,
+	lastName: ”Reismann”,
+	car: 26,
+	age: 35,
+	nationality: “Germany”,
+	sponsors: { “Terry Tree Head”, “Rusteese” }
+},
+{
+	driverid: 2,
+	firstName: "Osgar",
+	lastName: "Reisman",
+	car: 45,
+	age: 20,
+	nationality: "Ambiguous",
+	sponsors: { "Dillon's Daggon", "Larry Cableman" }
+},
+{
+	driverid: 3,
+	firstName: "Baby",
+	lastName: "Driver",
+	car: 69,
+	age: 50,
+	nationality: "Turkmenistani",
+	sponsors: {"Skirts", "Birds", "Peter" }
+},
+{
+	driverid: 4,
+	firstName: "Otto",
+	lastName: "Ottosen",
+	car: 02,
+	age: 14,
+	nationality: "USA",
+	sponsors: { "Americans for NASCAR", "Babies for NASCAR" }
+}
